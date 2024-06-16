@@ -1,0 +1,21 @@
+:root {
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+::placeholder {
+    font-size: 13px;
+}
